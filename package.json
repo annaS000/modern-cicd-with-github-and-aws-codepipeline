@@ -15,7 +15,7 @@
     "debug": "~4.3.4",
     "express": "^4.21.0",
     "http-errors": "~2.0.0",
-    "morgan": "~1.10.0",
+    "morgan": "~1.12.1",
     "pug": "^3.0.3",
     "selenium-webdriver": "^4.25.0",
     "serve-favicon": "^2.5.0"
